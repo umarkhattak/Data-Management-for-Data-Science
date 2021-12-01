@@ -1,0 +1,13 @@
+Pokemon type to personality mapping:
+
+   normal: mild, relaxed, quiet, calm, naughty, lax, brave, serious, jolly
+   fire: docile, modest, gentle, bold, brave, rash, naughty, impish, timid, bashful, hardy, jolly, lax
+   fighting: lonely, serious, hasty, adamant, careful
+   grass: sassy, naive, lonely, rash, bashful, quiet, gentle, docile, bold, impish, calm, adamant, mild
+   fairy: impish, sassy, naughty
+   rock: naughty, mild, bashful, docile, impish
+   ground: gentle, quiet, hardy, bashful
+   bug: careful
+   water: hardy
+   flying: impish
+   electric: hardy
